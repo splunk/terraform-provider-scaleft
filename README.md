@@ -1,3 +1,8 @@
+# ⚠️Not supported ⚠️
+This provider is no longer supported. Instead, please use a certified version of this provider at https://github.com/terraform-providers/terraform-provider-oktaasa.
+
+NOTE: ScaleFT has been acquired by Okta, therefore a new product name Okta ASA.
+
 Terraform Provider ScaleFT
 ==================
 
